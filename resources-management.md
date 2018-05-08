@@ -2,3 +2,5 @@
 
 Arcaré Robot® Domain Knowledge Specification Reference Manual
 
+![](.gitbook/assets/2015-brown.jpg)
+
